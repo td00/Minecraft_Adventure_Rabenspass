@@ -5,12 +5,12 @@ Dokumentation, Installation und weitere Infos folgen.
 An dem Projekt sind beteiligt:
 
 Bauleitung:
-  
--[Tonkari](https://github.com/Tonkari)  
--[Fightbackman](https://github.com/Fightbackman)  
--[JueDee](https://facebook.com/xXYueDeeXx)  
 
-Konzept:  
+-[Tonkari](https://github.com/Tonkari)
+-[Fightbackman](https://github.com/Fightbackman)
+-[JueDee](https://facebook.com/xXYueDeeXx)
+
+Konzept:
 -[td00](https://github.com/td--)
 
 
